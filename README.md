@@ -331,7 +331,7 @@ Feel free to reach out if you have questions or suggestions!
 
 ### ⭐ If you find this project helpful, please consider giving it a star!
 
-Made with ❤️ by [Mariana Coelho](https://github.com/marianycoelho)
+Made with ❤️ by [Mariany Coelho](https://github.com/marianycoelho)
 
 [⬆ Back to top](#-data-analysis)
 
