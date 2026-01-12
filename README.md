@@ -298,8 +298,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Mariana Coelho** 👨‍💻
 
 - GitHub: [@marianycoelho](https://github.com/marianycoelho)
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: [data.analyst.marianycoelho@gmail.com]
+- LinkedIn: www.linkedin.com/in/mariany-coelho-559a22175]
 
 Feel free to reach out if you have questions or suggestions!
 
